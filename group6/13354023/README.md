@@ -1,6 +1,7 @@
 # Table Sorter
 **Sorry for the delay**
 **Git Rookie**
+
 ---
 适配网页url:
 * http://www.cnrencai.com/kaoshi/news/148148.html
@@ -13,3 +14,4 @@
 * http://gms.sysu.edu.cn/article.asp?articleid=4557
 * http://acm.zju.edu.cn/onlinejudge/showRankList.do?contestId=1&order=AC
 
+在Console输入js文件全部内容之后，需要再单独加载window.onload里面的两个函数才能够使用。
